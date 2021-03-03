@@ -7,5 +7,3 @@ This repo is pure learning by doing for me as a self-taught data scientist.
 
 I appreciate it, if you can take something from them:)
 
-Best regards,
-Vlad Yashin
